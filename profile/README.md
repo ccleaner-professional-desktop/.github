@@ -17,8 +17,8 @@ Run the `.exe` file to start the application.
 ## 📸 Overview
 A quick look at key parts in action:
 
-![Main Dashboard](https://m.media-amazon.com/images/I/5159HnYxX-L._UF894,1000_QL80_.jpg)  
-![Cleaner Interface](https://support.ccleaner.com/servlet/rtaImage?eid=ka65p000000c1Xh&feoid=00Nb000000AI7Hh&refid=0EM5p00000ABR4H)  
+![Main Dashboard](https://www.idiskhome.com/resource/databackup/images/transfer-ccleaner-license-to-another-computer-2.jpg)  
+![Cleaner Interface](https://support.ccleaner.com/servlet/rtaImage?eid=ka65p000000c0Ae&feoid=00Nb000000AI7Hh&refid=0EM5p00000ABQxG)  
 
 ---
 
